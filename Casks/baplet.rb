@@ -1,6 +1,6 @@
 cask "baplet" do
-  version "0.6.0"
-  sha256 "5ea32955b58f1abda0734f61f242695efa3ab31f23955194ab635246badbb08b"
+  version "0.6.1"
+  sha256 "53addbd24fafe9f145e1075e4fce6a0e1926855da43edc014c5a1d903ae233e7"
 
   url "https://github.com/konkord-io/baplet/releases/download/v#{version}/Baplet-#{version}.dmg",
       verified: "github.com/konkord-io/baplet/"
